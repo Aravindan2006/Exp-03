@@ -34,21 +34,31 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
-### 
-Program:
-/*
-Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
+### CODE :
+### HALF ADDER : 
+![Screenshot 2023-12-26 225405](https://github.com/Aravindan2006/Exp-03/assets/151760062/1062bbba-e0d2-4394-a259-6f982d346c53)
 
-### Output:
+### FULL ADDER :
+![image](https://github.com/Aravindan2006/Exp-03/assets/151760062/0eff2be1-2290-44ff-8cc6-f9ceff4690e4)
+Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+Developed by: Aravindan D
+RegisterNumber: 23013092
+
 ### RTL
+![Screenshot 2023-12-26 225918](https://github.com/Aravindan2006/Exp-03/assets/151760062/90dc5639-c226-41c2-98eb-79681269b468)
+![Screenshot 2023-12-26 225950](https://github.com/Aravindan2006/Exp-03/assets/151760062/955dc32a-570e-48ae-90f0-9e730e68ccc0)
+
 ### TIMING DIAGRAM
+![Screenshot 2023-12-26 230028](https://github.com/Aravindan2006/Exp-03/assets/151760062/8882c6de-e72f-4784-852b-2fdf94a93d5b)
+
+![Screenshot 2023-12-26 230059](https://github.com/Aravindan2006/Exp-03/assets/151760062/f426eed3-21d2-4feb-b8bb-a3ca42053959)
 
 
 ### TRUTH TABLE 
+![Screenshot 2023-12-26 230125](https://github.com/Aravindan2006/Exp-03/assets/151760062/ffd804b8-e45d-4fc2-92c4-e62d6fdc8886)
+![Screenshot 2023-12-26 230200](https://github.com/Aravindan2006/Exp-03/assets/151760062/3592b76f-af59-49cc-98d7-97684df1481f)
+
+
 
 ### Result:
+Thus the half adder and full adder circuits are designed and the truth tables is verified using quartus software.
